@@ -1,0 +1,488 @@
+CICLO_RECURSO,ID_RAMO,DESC_RAMO,MODALIDAD_PP,DESC_PP
+2019,4,Gobernación,E012,Registro e Identificación de Población
+2019,4,Gobernación,E015,Promover la atención y prevención de la violencia contra las mujeres
+2019,4,Gobernación,U007,Subsidios en materia de seguridad pública
+2019,4,Gobernación,U008,Subsidios para las acciones de búsqueda de Personas Desaparecidas y No Localizadas
+2019,8,Agricultura y Desarrollo Rural,S240,Programa de Concurrencia con las Entidades Federativas
+2019,8,Agricultura y Desarrollo Rural,S259,Programa de Fomento a la Agricultura
+2019,8,Agricultura y Desarrollo Rural,S263,Sanidad e Inocuidad Agroalimentaria
+2019,9,Comunicaciones y Transportes,G002,"Supervisión, inspección y verificación del transporte terrestre, marítimo y aéreo"
+2019,9,Comunicaciones y Transportes,K005,Proyectos de construcción de aeropuertos
+2019,9,Comunicaciones y Transportes,K028,Estudios de preinversión
+2019,9,Comunicaciones y Transportes,K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+2019,9,Comunicaciones y Transportes,K037,Conservación de infraestructura de caminos rurales y carreteras alimentadoras
+2019,9,Comunicaciones y Transportes,K040,Proyectos Ferroviarios para Transporte de Carga y Pasajeros
+2019,9,Comunicaciones y Transportes,K041,Proyectos de Transporte Masivo de Pasajeros
+2019,9,Comunicaciones y Transportes,U002,Programa de apoyo para infraestructura carretera
+2019,11,Educación Pública,E064,Educación para Adultos (INEA)
+2019,11,Educación Pública,E068,Educación Física de Excelencia
+2019,11,Educación Pública,S221,Escuelas de Tiempo Completo
+2019,11,Educación Pública,S244,Programa para la Inclusión y la Equidad Educativa
+2019,11,Educación Pública,S247,Programa para el Desarrollo Profesional Docente
+2019,11,Educación Pública,S267,Fortalecimiento de la Calidad Educativa
+2019,11,Educación Pública,S269,Programa de Cultura Física y Deporte
+2019,11,Educación Pública,S270,Programa Nacional de Inglés
+2019,11,Educación Pública,S271,Programa Nacional de Convivencia Escolar
+2019,11,Educación Pública,U006,Subsidios para organismos descentralizados estatales
+2019,11,Educación Pública,U031,Expansión de la Educación Inicial
+2019,11,Educación Pública,U040,Carrera Docente en UPES
+2019,11,Educación Pública,U080,Apoyos a centros y organizaciones de educación
+2019,12,Salud,E010,Formación y capacitación de recursos humanos para la salud
+2019,12,Salud,E025,Prevención y atención contra las adicciones
+2019,12,Salud,E036,Programa de vacunación
+2019,12,Salud,G004,Protección Contra Riesgos Sanitarios
+2019,12,Salud,G005,Regulación y vigilancia de establecimientos y servicios de atención médica
+2019,12,Salud,P016,Prevención y atención de VIH/SIDA y otras ITS
+2019,12,Salud,P018,Prevención y control de enfermedades
+2019,12,Salud,P020,"Salud materna, sexual y reproductiva"
+2019,12,Salud,S039,Programa de Atención a Personas con Discapacidad
+2019,12,Salud,S200,Fortalecimiento a la atención médica
+2019,12,Salud,S201,Seguro Médico Siglo XXI
+2019,12,Salud,S202,Calidad en la Atención Médica
+2019,12,Salud,U005,Seguro Popular
+2019,12,Salud,U008,"Prevención y Control de Sobrepeso, Obesidad y Diabetes"
+2019,12,Salud,U009,Vigilancia epidemiológica
+2019,12,Salud,U013,Atención a la Salud y Medicamentos Gratuitos para la Población sin Seguridad Social Laboral
+2019,12,Salud,U281,Programa Nacional de Reconstrucción
+2019,15,"Desarrollo Agrario, Territorial y Urbano",S273,Programa de Mejoramiento Urbano (PMU)
+2019,15,"Desarrollo Agrario, Territorial y Urbano",M001,Actividades de apoyo administrativo (Fondo Minero)
+2019,16,Medio Ambiente y Recursos Naturales,E005,Capacitación Ambiental y Desarrollo Sustentable
+2019,16,Medio Ambiente y Recursos Naturales,S074,"Agua Potable, Drenaje y Tratamiento"
+2019,16,Medio Ambiente y Recursos Naturales,S217,Programa de Apoyo a la Infraestructura Hidroagrícola
+2019,16,Medio Ambiente y Recursos Naturales,S219,Apoyos para el Desarrollo Forestal Sustentable
+2019,16,Medio Ambiente y Recursos Naturales,U001,Programa de Devolución de Derechos
+2019,16,Medio Ambiente y Recursos Naturales,U007,Devolución de Aprovechamientos
+2019,16,Medio Ambiente y Recursos Naturales,U008,Saneamiento de Aguas Residuales
+2019,20,Bienestar,S176,Pensión para el Bienestar de las Personas Adultas Mayores
+2019,20,Bienestar,U008,Subsidios a programas para jóvenes
+2019,20,Bienestar,U009,Pensión para el Bienestar de las Personas con Discapacidad Permanente
+2019,20,Bienestar,U010,Sembrando Vida
+2019,23,Provisiones Salariales y Económicas,R120,Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica
+2019,23,Provisiones Salariales y Económicas,R141,Fideicomiso para la Infraestructura de los Estados
+2019,23,Provisiones Salariales y Económicas,U019,Fondo Regional
+2019,23,Provisiones Salariales y Económicas,U057,Fondo Metropolitano
+2019,23,Provisiones Salariales y Económicas,U075,Fondo para la Accesibilidad en el Transporte Público para las Personas con Discapacidad
+2019,23,Provisiones Salariales y Económicas,U083,"Apoyo a municipios para obras de infraestructura y seguridad de los museos, monumentos y zonas arqueológicas (derecho a museos)"
+2019,23,Provisiones Salariales y Económicas,U087,Fondo de Capitalidad
+2019,23,Provisiones Salariales y Económicas,U093,Fondo para entidades federativas y municipios productores de hidrocarburos
+2019,23,Provisiones Salariales y Económicas,U116,Provisión para la Armonización Contable
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I002,FASSA
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I003,FAIS Entidades
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I004,FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I005,FORTAMUN
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I006,FAM Asistencia Social 
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I007,FAM Infraestructura Educativa Básica
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I008,FAM Infraestructura Educativa Media Superior y Superior
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I009,FAETA Educación Tecnológica
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I010,FAETA Educación de Adultos
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I011,FASP
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I012,FAFEF
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I013,FONE Servicios Personales
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I014,FONE Otros de Gasto Corriente
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I015,FONE Gasto de Operación
+2019,33,Aportaciones Federales para Entidades Federativas y Municipios,I016,FONE Fondo de Compensación
+2019,36,Seguridad y Protección Ciudadana,U001,Subsidios en materia de seguridad pública
+2019,47,Entidades no Sectorizadas,S010,Fortalecimiento a la Transversalidad de la Perspectiva de Género
+2019,48,Cultura,E011,Desarrollo Cultural
+2019,48,Cultura,S268,Programa de Apoyos a la Cultura
+2020,4,Gobernación,E015,Promover la atención y prevención de la violencia contra las mujeres
+2020,4,Gobernación,U008,Subsidios para las acciones de búsqueda de Personas Desaparecidas y No Localizadas
+2020,8,Agricultura y Desarrollo Rural,S263,Sanidad e Inocuidad Agroalimentaria
+2020,9,Comunicaciones y Transportes,K005,Proyectos de construcción de aeropuertos
+2020,9,Comunicaciones y Transportes,K028,Estudios de preinversión
+2020,9,Comunicaciones y Transportes,K040,Proyectos Ferroviarios para Transporte de Carga y Pasajeros
+2020,9,Comunicaciones y Transportes,K041,Proyectos de Transporte Masivo de Pasajeros
+2020,9,Comunicaciones y Transportes,U004,Mejora en la conectividad municipal a través de caminos rurales y carreteras alimentadoras
+2020,11,Educación Pública,E064,Educación para Adultos (INEA)
+2020,11,Educación Pública,E068,Educación Física de Excelencia
+2020,11,Educación Pública,S221,Escuelas de Tiempo Completo
+2020,11,Educación Pública,S247,Programa para el Desarrollo Profesional Docente
+2020,11,Educación Pública,S269,Programa de Cultura Física y Deporte
+2020,11,Educación Pública,S270,Programa Nacional de Inglés
+2020,11,Educación Pública,S271,Programa Nacional de Convivencia Escolar
+2020,11,Educación Pública,S295,Fortalecimiento de los Servicios de Educación Especial (PFSEE)
+2020,11,Educación Pública,S296,Atención a la Diversidad de la Educación Indígena (PADEI)
+2020,11,Educación Pública,S297,Atención Educativa de la Población Escolar Migrante (PAEPEM)
+2020,11,Educación Pública,S299,Desarrollo de Aprendizajes significativos de Educación Básica
+2020,11,Educación Pública,U006,Subsidios para organismos descentralizados estatales
+2020,11,Educación Pública,U031,Expansión de la Educación Inicial
+2020,11,Educación Pública,U040,Carrera Docente en UPES
+2020,11,Educación Pública,U079,Expansión de la Educación Media Superior y Superior
+2020,11,Educación Pública,U080,Apoyos a centros y organizaciones de educación
+2020,12,Salud,E010,Formación y capacitación de recursos humanos para la salud
+2020,12,Salud,E025,Prevención y atención contra las adicciones
+2020,12,Salud,E036,Programa de vacunación
+2020,12,Salud,G004,Protección Contra Riesgos Sanitarios
+2020,12,Salud,G005,Regulación y vigilancia de establecimientos y servicios de atención médica
+2020,12,Salud,P016,Prevención y atención de VIH/SIDA y otras ITS
+2020,12,Salud,P018,Prevención y control de enfermedades
+2020,12,Salud,P020,"Salud materna, sexual y reproductiva"
+2020,12,Salud,S039,Programa de Atención a Personas con Discapacidad
+2020,12,Salud,S200,Fortalecimiento a la atención médica
+2020,12,Salud,S202,Calidad en la Atención Médica
+2020,12,Salud,S251,Programa de Salud y Bienestar Comunitario
+2020,12,Salud,U008,"Prevención y Control de Sobrepeso, Obesidad y Diabetes"
+2020,12,Salud,U009,Vigilancia epidemiológica
+2020,12,Salud,U013,Atención a la Salud y Medicamentos Gratuitos para la Población sin Seguridad Social Laboral
+2020,12,Salud,U281,Programa Nacional de Reconstrucción
+2020,14,Trabajo y Previsión Social,U100,Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral
+2020,15,"Desarrollo Agrario, Territorial y Urbano",M001,Actividades de apoyo administrativo (Fondo Minero)
+2020,16,Medio Ambiente y Recursos Naturales,E005,Capacitación Ambiental y Desarrollo Sustentable
+2020,16,Medio Ambiente y Recursos Naturales,S074,"Agua Potable, Drenaje y Tratamiento"
+2020,16,Medio Ambiente y Recursos Naturales,S217,Programa de Apoyo a la Infraestructura Hidroagrícola
+2020,16,Medio Ambiente y Recursos Naturales,S219,Apoyos para el Desarrollo Forestal Sustentable
+2020,16,Medio Ambiente y Recursos Naturales,U001,Programa de Devolución de Derechos
+2020,16,Medio Ambiente y Recursos Naturales,U007,Devolución de Aprovechamientos
+2020,16,Medio Ambiente y Recursos Naturales,U008,Saneamiento de Aguas Residuales
+2020,20,Bienestar,S287,Sembrando Vida
+2020,20,Bienestar,U008,Subsidios a programas para jóvenes
+2020,21,Turismo,K041,Proyectos de Transporte Masivo de Pasajeros
+2020,23,Provisiones Salariales y Económicas,R120,Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica
+2020,23,Provisiones Salariales y Económicas,U019,Fondo Regional
+2020,23,Provisiones Salariales y Económicas,U057,Fondo Metropolitano
+2020,23,Provisiones Salariales y Económicas,U075,Fondo para la Accesibilidad en el Transporte Público para las Personas con Discapacidad
+2020,23,Provisiones Salariales y Económicas,U083,"Apoyo a municipios para obras de infraestructura y seguridad de los museos, monumentos y zonas arqueológicas (derecho a museos)"
+2020,23,Provisiones Salariales y Económicas,U087,Fondo de Capitalidad
+2020,23,Provisiones Salariales y Económicas,U093,Fondo para entidades federativas y municipios productores de hidrocarburos
+2020,23,Provisiones Salariales y Económicas,U116,Provisión para la Armonización Contable
+2020,27,Función Pública,O002,Fiscalización a la gestión pública
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I002,FASSA
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I003,FAIS Entidades
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I004,FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I005,FORTAMUN
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I006,FAM Asistencia Social 
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I007,FAM Infraestructura Educativa Básica
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I008,FAM Infraestructura Educativa Media Superior y Superior
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I009,FAETA Educación Tecnológica
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I010,FAETA Educación de Adultos
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I011,FASP
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I012,FAFEF
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I013,FONE Servicios Personales
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I014,FONE Otros de Gasto Corriente
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I015,FONE Gasto de Operación
+2020,33,Aportaciones Federales para Entidades Federativas y Municipios,I016,FONE Fondo de Compensación
+2020,36,Seguridad y Protección Ciudadana,U001,Subsidios en materia de seguridad pública
+2020,47,Entidades no Sectorizadas,S010,Fortalecimiento a la Transversalidad de la Perspectiva de Género
+2020,48,Cultura,K009,Proyectos de infraestructura social del sector cultura
+2020,48,Cultura,S268,Programa de Apoyos a la Cultura
+2021,4,Gobernación,E012,Registro e Identificación de Población
+2021,4,Gobernación,E015,Promover la atención y prevención de la violencia contra las mujeres
+2021,9,Comunicaciones y Transportes,K037,Conservación de infraestructura de caminos rurales y carreteras alimentadoras
+2021,9,Comunicaciones y Transportes,K040,Proyectos Ferroviarios para Transporte de Carga y Pasajeros
+2021,9,Comunicaciones y Transportes,K048,Servicios relacionados para la liberación del derecho de vía
+2021,9,Comunicaciones y Transportes,U004,Mejora en la conectividad municipal a través de caminos rurales y carreteras alimentadoras
+2021,10,Economía,G007,"Regulación, modernización y promoción de la actividad minera"
+2021,11,Educación Pública,E064,Educación para Adultos (INEA)
+2021,11,Educación Pública,E068,Educación Física de Excelencia
+2021,11,Educación Pública,S247,Programa para el Desarrollo Profesional Docente
+2021,11,Educación Pública,S269,Programa de Cultura Física y Deporte
+2021,11,Educación Pública,S270,Programa Nacional de Inglés
+2021,11,Educación Pública,S295,Fortalecimiento de los Servicios de Educación Especial (PFSEE)
+2021,11,Educación Pública,U006,Subsidios para organismos descentralizados estatales
+2021,11,Educación Pública,U031,Expansión de la Educación Inicial
+2021,11,Educación Pública,U080,Apoyos a centros y organizaciones de educación
+2021,12,Salud,E025,Prevención y atención contra las adicciones
+2021,12,Salud,E036,Programa de vacunación
+2021,12,Salud,E040,Servicios de asistencia social integral
+2021,12,Salud,G004,Protección Contra Riesgos Sanitarios
+2021,12,Salud,G005,Regulación y vigilancia de establecimientos y servicios de atención médica
+2021,12,Salud,P016,Prevención y atención de VIH/SIDA y otras ITS
+2021,12,Salud,P018,Prevención y control de enfermedades
+2021,12,Salud,P020,"Salud materna, sexual y reproductiva"
+2021,12,Salud,S039,Programa de Atención a Personas con Discapacidad
+2021,12,Salud,S200,Fortalecimiento a la atención médica
+2021,12,Salud,U008,"Prevención y Control de Sobrepeso, Obesidad y Diabetes"
+2021,12,Salud,U009,Vigilancia epidemiológica
+2021,12,Salud,U013,Atención a la Salud y Medicamentos Gratuitos para la Población sin Seguridad Social Laboral
+2021,13,Marina,K012,Proyectos de infraestructura social de asistencia y seguridad social
+2021,14,Trabajo y Previsión Social,U100,Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral
+2021,16,Medio Ambiente y Recursos Naturales,E005,Capacitación Ambiental y Desarrollo Sustentable
+2021,16,Medio Ambiente y Recursos Naturales,S074,"Agua Potable, Drenaje y Tratamiento"
+2021,16,Medio Ambiente y Recursos Naturales,S217,Programa de Apoyo a la Infraestructura Hidroagrícola
+2021,16,Medio Ambiente y Recursos Naturales,S219,Apoyos para el Desarrollo Forestal Sustentable
+2021,16,Medio Ambiente y Recursos Naturales,U001,Programa de Devolución de Derechos
+2021,16,Medio Ambiente y Recursos Naturales,U007,Devolución de Aprovechamientos
+2021,16,Medio Ambiente y Recursos Naturales,U008,Saneamiento de Aguas Residuales
+2021,21,Turismo,K041,Proyectos de Transporte Masivo de Pasajeros
+2021,23,Provisiones Salariales y Económicas,R120,Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica
+2021,23,Provisiones Salariales y Económicas,U083,"Apoyo a municipios para obras de infraestructura y seguridad de los museos, monumentos y zonas arqueológicas (derecho a museos)"
+2021,23,Provisiones Salariales y Económicas,U093,Fondo para entidades federativas y municipios productores de hidrocarburos
+2021,23,Provisiones Salariales y Económicas,U116,Provisión para la Armonización Contable
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I002,FASSA
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I003,FAIS Entidades
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I004,FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I005,FORTAMUN
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I006,FAM Asistencia Social 
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I007,FAM Infraestructura Educativa Básica
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I008,FAM Infraestructura Educativa Media Superior y Superior
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I009,FAETA Educación Tecnológica
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I010,FAETA Educación de Adultos
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I011,FASP
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I012,FAFEF
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I013,FONE Servicios Personales
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I014,FONE Otros de Gasto Corriente
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I015,FONE Gasto de Operación
+2021,33,Aportaciones Federales para Entidades Federativas y Municipios,I016,FONE Fondo de Compensación
+2021,47,Entidades no Sectorizadas,S010,Fortalecimiento a la Transversalidad de la Perspectiva de Género
+2021,48,Cultura,K009,Proyectos de infraestructura social del sector cultura
+2021,48,Cultura,S268,Programa de Apoyos a la Cultura
+2022,4,Gobernación,E012,Registro e Identificación de Población
+2022,4,Gobernación,E015,Promover la atención y prevención de la violencia contra las mujeres
+2022,8,Agricultura y Desarrollo Rural,S263,Sanidad e Inocuidad Agroalimentaria
+2022,9,"Infraestructura, Comunicaciones y Transportes",K003,Proyectos de construcción de carreteras
+2022,9,"Infraestructura, Comunicaciones y Transportes",K027,Mantenimiento de infraestructura
+2022,9,"Infraestructura, Comunicaciones y Transportes",K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+2022,9,"Infraestructura, Comunicaciones y Transportes",K032,Reconstrucción y Conservación de Carreteras
+2022,9,"Infraestructura, Comunicaciones y Transportes",K037,Conservación de infraestructura de caminos rurales y carreteras alimentadoras
+2022,9,"Infraestructura, Comunicaciones y Transportes",K040,Proyectos Ferroviarios para Transporte de Carga y Pasajeros
+2022,9,"Infraestructura, Comunicaciones y Transportes",K041,Proyectos de Transporte Masivo de Pasajeros
+2022,9,"Infraestructura, Comunicaciones y Transportes",U004,Mejora en la conectividad municipal a través de caminos rurales y carreteras alimentadoras
+2022,10,Economía,G007,"Regulación, modernización y promoción de la actividad minera"
+2022,11,Educación Pública,E047,Programa de mantenimiento e infraestructura física educativa
+2022,11,Educación Pública,E064,Educación para Adultos (INEA)
+2022,11,Educación Pública,E068,Educación Física de Excelencia
+2022,11,Educación Pública,S247,Programa para el Desarrollo Profesional Docente
+2022,11,Educación Pública,S269,Programa de Cultura Física y Deporte
+2022,11,Educación Pública,S270,Programa Nacional de Inglés
+2022,11,Educación Pública,S295,Fortalecimiento de los Servicios de Educación Especial (PFSEE)
+2022,11,Educación Pública,S300,Fortalecimiento a la Excelencia Educativa
+2022,11,Educación Pública,U006,Subsidios para organismos descentralizados estatales
+2022,11,Educación Pública,U031,Expansión de la Educación Inicial
+2022,11,Educación Pública,U079,Expansión de la Educación Media Superior y Superior
+2022,11,Educación Pública,U080,Apoyos a centros y organizaciones de educación
+2022,12,Salud,E025,Prevención y atención contra las adicciones
+2022,12,Salud,E036,Programa de vacunación
+2022,12,Salud,E040,Servicios de asistencia social integral
+2022,12,Salud,G004,Protección Contra Riesgos Sanitarios
+2022,12,Salud,G005,Regulación y vigilancia de establecimientos y servicios de atención médica
+2022,12,Salud,P016,Prevención y atención de VIH/SIDA y otras ITS
+2022,12,Salud,P018,Prevención y control de enfermedades
+2022,12,Salud,P020,"Salud materna, sexual y reproductiva"
+2022,12,Salud,S039,Programa de Atención a Personas con Discapacidad
+2022,12,Salud,S200,Fortalecimiento a la atención médica
+2022,12,Salud,U008,"Prevención y Control de Sobrepeso, Obesidad y Diabetes"
+2022,12,Salud,U009,Vigilancia epidemiológica
+2022,12,Salud,U013,Atención a la Salud y Medicamentos Gratuitos para la Población sin Seguridad Social Laboral
+2022,14,Trabajo y Previsión Social,U100,Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral
+2022,16,Medio Ambiente y Recursos Naturales,E005,Capacitación Ambiental y Desarrollo Sustentable
+2022,16,Medio Ambiente y Recursos Naturales,S074,"Agua Potable, Drenaje y Tratamiento"
+2022,16,Medio Ambiente y Recursos Naturales,S217,Programa de Apoyo a la Infraestructura Hidroagrícola
+2022,16,Medio Ambiente y Recursos Naturales,S219,Apoyos para el Desarrollo Forestal Sustentable
+2022,16,Medio Ambiente y Recursos Naturales,U001,Programa de Devolución de Derechos
+2022,16,Medio Ambiente y Recursos Naturales,U007,Devolución de Aprovechamientos
+2022,16,Medio Ambiente y Recursos Naturales,U008,Saneamiento de Aguas Residuales
+2022,21,Turismo,K041,Proyectos de Transporte Masivo de Pasajeros
+2022,23,Provisiones Salariales y Económicas,R120,Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica
+2022,23,Provisiones Salariales y Económicas,U083,"Apoyo a municipios para obras de infraestructura y seguridad de los museos, monumentos y zonas arqueológicas (derecho a museos)"
+2022,23,Provisiones Salariales y Económicas,U093,Fondo para entidades federativas y municipios productores de hidrocarburos
+2022,23,Provisiones Salariales y Económicas,U116,Provisión para la Armonización Contable
+2022,23,Provisiones Salariales y Económicas,U151,Regularización de vehículos usados de procedencia extranjera
+2022,27,Función Pública,O002,Fiscalización a la gestión pública
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I002,FASSA
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I003,FAIS Entidades
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I004,FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I005,FORTAMUN
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I006,FAM Asistencia Social 
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I007,FAM Infraestructura Educativa Básica
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I008,FAM Infraestructura Educativa Media Superior y Superior
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I009,FAETA Educación Tecnológica
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I010,FAETA Educación de Adultos
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I011,FASP
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I012,FAFEF
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I013,FONE Servicios Personales
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I014,FONE Otros de Gasto Corriente
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I015,FONE Gasto de Operación
+2022,33,Aportaciones Federales para Entidades Federativas y Municipios,I016,FONE Fondo de Compensación
+2022,47,Entidades no Sectorizadas,S010,Fortalecimiento a la Transversalidad de la Perspectiva de Género
+2022,48,Cultura,K009,Proyectos de infraestructura social del sector cultura
+2022,48,Cultura,S268,Programa de Apoyos a la Cultura
+2023,4,Gobernación,E012,Registro e Identificación de Población
+2023,4,Gobernación,E015,Promover la atención y prevención de la violencia contra las mujeres
+2023,4,Gobernación,P001,Conducción de la política interior
+2023,4,Gobernación,U008,Subsidios para las acciones de búsqueda de Personas Desaparecidas y No Localizadas
+2023,8,Agricultura y Desarrollo Rural,S263,Sanidad e Inocuidad Agroalimentaria
+2023,9,"Infraestructura, Comunicaciones y Transportes",K040,Proyectos Ferroviarios para Transporte de Carga y Pasajeros
+2023,9,"Infraestructura, Comunicaciones y Transportes",U004,Mejora en la conectividad municipal a través de caminos rurales y carreteras alimentadoras
+2023,10,Economía,G007,"Regulación, modernización y promoción de la actividad minera"
+2023,11,Educación Pública,E064,Educación para Adultos (INEA)
+2023,11,Educación Pública,E068,Educación Física de Excelencia
+2023,11,Educación Pública,S247,Programa para el Desarrollo Profesional Docente
+2023,11,Educación Pública,S269,Programa de Cultura Física y Deporte
+2023,11,Educación Pública,S270,Programa Nacional de Inglés
+2023,11,Educación Pública,S295,Fortalecimiento de los Servicios de Educación Especial (PFSEE)
+2023,11,Educación Pública,S298,Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)
+2023,11,Educación Pública,S300,Fortalecimiento a la Excelencia Educativa
+2023,11,Educación Pública,S312,Expansión de la Educación Inicial
+2023,11,Educación Pública,U006,Subsidios para organismos descentralizados estatales
+2023,11,Educación Pública,U079,Expansión de la Educación Media Superior y Superior
+2023,11,Educación Pública,U080,Apoyos a centros y organizaciones de educación
+2023,12,Salud,E025,Prevención y atención contra las adicciones
+2023,12,Salud,E040,Servicios de asistencia social integral
+2023,12,Salud,G004,Protección Contra Riesgos Sanitarios
+2023,12,Salud,S039,Programa de Atención a Personas con Discapacidad
+2023,12,Salud,S200,Fortalecimiento a la atención médica
+2023,12,Salud,U008,"Prevención y Control de Sobrepeso, Obesidad y Diabetes"
+2023,12,Salud,U009,Vigilancia epidemiológica
+2023,12,Salud,U012,Fortalecimiento de los Servicios Estatales de Salud
+2023,12,Salud,U013,Atención a la Salud y Medicamentos Gratuitos para la Población sin Seguridad Social Laboral
+2023,14,Trabajo y Previsión Social,U100,Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral
+2023,16,Medio Ambiente y Recursos Naturales,E005,Capacitación Ambiental y Desarrollo Sustentable
+2023,16,Medio Ambiente y Recursos Naturales,S074,"Agua Potable, Drenaje y Tratamiento"
+2023,16,Medio Ambiente y Recursos Naturales,S217,Programa de Apoyo a la Infraestructura Hidroagrícola
+2023,16,Medio Ambiente y Recursos Naturales,S219,Desarrollo Forestal Sustentable para el Bienestar
+2023,16,Medio Ambiente y Recursos Naturales,U001,Programa de Devolución de Derechos
+2023,16,Medio Ambiente y Recursos Naturales,U007,Devolución de Aprovechamientos
+2023,16,Medio Ambiente y Recursos Naturales,U008,Saneamiento de Aguas Residuales
+2023,21,Turismo,K041,Proyectos de Transporte Masivo de Pasajeros
+2023,23,Provisiones Salariales y Económicas,U083,"Apoyo a municipios para obras de infraestructura y seguridad de los museos, monumentos y zonas arqueológicas (derecho a museos)"
+2023,23,Provisiones Salariales y Económicas,U093,Fondo para entidades federativas y municipios productores de hidrocarburos
+2023,23,Provisiones Salariales y Económicas,U116,Provisión para la Armonización Contable
+2023,23,Provisiones Salariales y Económicas,U151,Regularización de vehículos usados de procedencia extranjera
+2023,27,Función Pública,O002,Fiscalización a la gestión pública
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I002,FASSA
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I003,FAIS Entidades
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I004,FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I005,FORTAMUN
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I006,FAM Asistencia Social 
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I007,FAM Infraestructura Educativa Básica
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I008,FAM Infraestructura Educativa Media Superior y Superior
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I009,FAETA Educación Tecnológica
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I010,FAETA Educación de Adultos
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I011,FASP
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I012,FAFEF
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I013,FONE Servicios Personales
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I014,FONE Otros de Gasto Corriente
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I015,FONE Gasto de Operación
+2023,33,Aportaciones Federales para Entidades Federativas y Municipios,I016,FONE Fondo de Compensación
+2023,36,Seguridad y Protección Ciudadana,E004,Administración del Sistema Federal Penitenciario
+2023,36,Seguridad y Protección Ciudadana,U002,Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública
+2023,47,Entidades no Sectorizadas,S010,"Programa para el Adelanto, Bienestar e Igualdad de las Mujeres"
+2023,47,Entidades no Sectorizadas,U013,Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral
+2023,48,Cultura,S268,Programa de Apoyos a la Cultura
+2024,4,Gobernación,E012,Registro e Identificación de Población
+2024,4,Gobernación,E015,Promover la atención y prevención de la violencia contra las mujeres
+2024,4,Gobernación,P001,Conducción de la política interior
+2024,4,Gobernación,U008,Subsidios para las acciones de búsqueda de Personas Desaparecidas y No Localizadas
+2024,8,Agricultura y Desarrollo Rural,S263,Sanidad e Inocuidad Agroalimentaria
+2024,9,"Infraestructura, Comunicaciones y Transportes",K031,Proyectos de construcción de carreteras alimentadoras y caminos rurales
+2024,9,"Infraestructura, Comunicaciones y Transportes",K037,Conservación de infraestructura de caminos rurales y carreteras alimentadoras
+2024,9,"Infraestructura, Comunicaciones y Transportes",K040,Proyectos Ferroviarios para Transporte de Carga y Pasajeros
+2024,9,"Infraestructura, Comunicaciones y Transportes",U004,Mejora en la conectividad municipal a través de caminos rurales y carreteras alimentadoras
+2024,10,Economía,G007,"Regulación, modernización y promoción de la actividad minera"
+2024,11,Educación Pública,E047,Programa de mantenimiento e infraestructura física educativa
+2024,11,Educación Pública,E064,Educación para Adultos (INEA)
+2024,11,Educación Pública,K009,Proyectos de infraestructura social del sector educativo
+2024,11,Educación Pública,S247,Programa para el Desarrollo Profesional Docente
+2024,11,Educación Pública,S269,Programa de Cultura Física y Deporte
+2024,11,Educación Pública,S270,Programa Nacional de Inglés
+2024,11,Educación Pública,S295,Fortalecimiento de los Servicios de Educación Especial (PFSEE)
+2024,11,Educación Pública,S298,Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)
+2024,11,Educación Pública,S300,Fortalecimiento a la Excelencia Educativa
+2024,11,Educación Pública,S312,Expansión de la Educación Inicial
+2024,11,Educación Pública,U006,Subsidios para organismos descentralizados estatales
+2024,11,Educación Pública,U079,Expansión de la Educación Media Superior y Superior
+2024,11,Educación Pública,U080,Apoyos a centros y organizaciones de educación
+2024,12,Salud,E025,Prevención y atención contra las adicciones
+2024,12,Salud,E040,Servicios de asistencia social integral
+2024,12,Salud,G004,Protección Contra Riesgos Sanitarios
+2024,12,Salud,P016,Prevención y atención de VIH/SIDA y otras ITS
+2024,12,Salud,P018,Prevención y control de enfermedades
+2024,12,Salud,S039,Programa de Atención a Personas con Discapacidad
+2024,12,Salud,U008,"Prevención y Control de Sobrepeso, Obesidad y Diabetes"
+2024,12,Salud,U009,Vigilancia epidemiológica
+2024,12,Salud,U012,Fortalecimiento de los Servicios Estatales de Salud
+2024,14,Trabajo y Previsión Social,U100,Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral
+2024,16,Medio Ambiente y Recursos Naturales,E005,Capacitación Ambiental y Desarrollo Sustentable
+2024,16,Medio Ambiente y Recursos Naturales,S074,"Agua Potable, Drenaje y Tratamiento"
+2024,16,Medio Ambiente y Recursos Naturales,S217,Programa de Apoyo a la Infraestructura Hidroagrícola
+2024,16,Medio Ambiente y Recursos Naturales,S219,Desarrollo Forestal Sustentable para el Bienestar
+2024,16,Medio Ambiente y Recursos Naturales,U001,Programa de Devolución de Derechos
+2024,16,Medio Ambiente y Recursos Naturales,U007,Devolución de Aprovechamientos
+2024,16,Medio Ambiente y Recursos Naturales,U008,Saneamiento de Aguas Residuales
+2024,21,Turismo,K027,Mantenimiento de infraestructura
+2024,23,Provisiones Salariales y Económicas,R120,Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica
+2024,23,Provisiones Salariales y Económicas,U083,"Apoyo a municipios para obras de infraestructura y seguridad de los museos, monumentos y zonas arqueológicas (derecho a museos)"
+2024,23,Provisiones Salariales y Económicas,U093,Fondo para entidades federativas y municipios productores de hidrocarburos
+2024,23,Provisiones Salariales y Económicas,U116,Provisión para la Armonización Contable
+2024,23,Provisiones Salariales y Económicas,U151,Regularización de vehículos usados de procedencia extranjera
+2024,27,Función Pública,O002,Fiscalización a la gestión pública
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I002,FASSA
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I003,FAIS Entidades
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I004,FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I005,FORTAMUN
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I006,FAM Asistencia Social 
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I007,FAM Infraestructura Educativa Básica
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I008,FAM Infraestructura Educativa Media Superior y Superior
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I009,FAETA Educación Tecnológica
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I010,FAETA Educación de Adultos
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I011,FASP
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I012,FAFEF
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I013,FONE Servicios Personales
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I014,FONE Otros de Gasto Corriente
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I015,FONE Gasto de Operación
+2024,33,Aportaciones Federales para Entidades Federativas y Municipios,I016,FONE Fondo de Compensación
+2024,36,Seguridad y Protección Ciudadana,N001,Coordinación del Sistema Nacional de Protección Civil
+2024,36,Seguridad y Protección Ciudadana,U002,Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública
+2024,47,Entidades no Sectorizadas,S010,"Programa para el Adelanto, Bienestar e Igualdad de las Mujeres"
+2024,47,Entidades no Sectorizadas,S200,Fortalecimiento a la atención médica
+2024,47,Entidades no Sectorizadas,U013,Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral
+2024,48,Cultura,K009,Proyectos de infraestructura social del sector cultura
+2024,48,Cultura,S268,Programa de Apoyos a la Cultura
+2025,4,Gobernación,E012,Registro e Identificación de Población
+2025,4,Gobernación,U008,Subsidios para las acciones de búsqueda de Personas Desaparecidas y No Localizadas
+2025,8,Agricultura y Desarrollo Rural,S263,Sanidad e Inocuidad Agroalimentaria
+2025,9,"Infraestructura, Comunicaciones y Transportes",U004,Mejora en la conectividad municipal a través de caminos rurales y carreteras alimentadoras
+2025,11,Educación Pública,U080,Apoyos a centros y organizaciones de educación
+2025,11,Educación Pública,S298,Atención de Planteles Públicos de Educación Media Superior con estudiantes con discapacidad (PAPPEMS)
+2025,11,Educación Pública,E064,Educación para Adultos (INEA)
+2025,11,Educación Pública,S312,Expansión de la Educación Inicial
+2025,11,Educación Pública,U079,Expansión de la Educación Media Superior y Superior
+2025,11,Educación Pública,S300,Fortalecimiento a la Excelencia Educativa
+2025,11,Educación Pública,S295,Fortalecimiento de los Servicios de Educación Especial (PFSEE)
+2025,11,Educación Pública,S269,Programa de Cultura Física y Deporte
+2025,11,Educación Pública,E047,Programa de mantenimiento e infraestructura física educativa
+2025,11,Educación Pública,S270,Programa Nacional de Inglés
+2025,11,Educación Pública,S247,Programa para el Desarrollo Profesional Docente
+2025,11,Educación Pública,U006,Subsidios para organismos descentralizados estatales
+2025,12,Salud,U012,Fortalecimiento de los Servicios Estatales de Salud
+2025,12,Salud,E025,Prevención y atención contra las adicciones
+2025,12,Salud,P016,Prevención y atención de VIH/SIDA y otras ITS
+2025,12,Salud,P018,Prevención y control de enfermedades
+2025,12,Salud,U008,"Prevención y Control de Sobrepeso, Obesidad y Diabetes"
+2025,12,Salud,S039,Programa de Atención a Personas con Discapacidad
+2025,12,Salud,G004,Protección Contra Riesgos Sanitarios
+2025,12,Salud,P020,"Salud materna, sexual y reproductiva"
+2025,12,Salud,E040,Servicios de asistencia social integral
+2025,12,Salud,U009,Vigilancia epidemiológica
+2025,14,Trabajo y Previsión Social,U100,Subsidios a las Entidades Federativas para la implementación de la Reforma al Sistema de Justicia Laboral
+2025,16,Medio Ambiente y Recursos Naturales,S074,"Agua Potable, Drenaje y Tratamiento"
+2025,16,Medio Ambiente y Recursos Naturales,E005,Capacitación Ambiental y Desarrollo Sustentable
+2025,16,Medio Ambiente y Recursos Naturales,S219,Desarrollo Forestal Sustentable para el Bienestar
+2025,16,Medio Ambiente y Recursos Naturales,S217,Programa de Apoyo a la Infraestructura Hidroagrícola
+2025,23,Provisiones Salariales y Económicas,R120,Apoyo Federal para Pago de Adeudos de Suministro de Energía Eléctrica
+2025,23,Provisiones Salariales y Económicas,U093,Fondo para entidades federativas y municipios productores de hidrocarburos
+2025,23,Provisiones Salariales y Económicas,U116,Provisión para la Armonización Contable
+2025,23,Provisiones Salariales y Económicas,U151,Regularización de vehículos usados de procedencia extranjera
+2025,27,Anticorrupción y Buen Gobierno,O002,Fiscalización a la gestión pública
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I010,FAETA Educación de Adultos
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I009,FAETA Educación Tecnológica
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I012,FAFEF
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I003,FAIS Entidades
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I004,FAIS Municipal y de las Demarcaciones Territoriales del Distrito Federal
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I006,FAM Asistencia Social 
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I007,FAM Infraestructura Educativa Básica
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I008,FAM Infraestructura Educativa Media Superior y Superior
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I011,FASP
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I002,FASSA
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I016,FONE Fondo de Compensación
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I015,FONE Gasto de Operación
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I014,FONE Otros de Gasto Corriente
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I013,FONE Servicios Personales
+2025,33,Aportaciones Federales para Entidades Federativas y Municipios,I005,FORTAMUN
+2025,36,Seguridad y Protección Ciudadana,N001,Coordinación del Sistema Nacional de Protección Civil
+2025,36,Seguridad y Protección Ciudadana,U002,Fondo para el Fortalecimiento de las Instituciones de Seguridad Pública
+2025,47,Entidades no Sectorizadas,U013,Atención a la salud y medicamentos gratuitos para la población sin seguridad social laboral
+2025,47,Entidades no Sectorizadas,S200,Fortalecimiento a la atención médica
+2025,48,Cultura,S268,Programa de Apoyos a la Cultura
+2025,48,Cultura,K009,Proyectos de infraestructura social del sector cultura
+2025,54,Mujeres,E015,Promover la Atención y Prevención de la Violencia contra las Mujeres
